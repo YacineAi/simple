@@ -25,9 +25,6 @@ A Node.js based Facebook Messenger bot that responds to different types of messa
 The following environment variables are required:
 
 ```env
-PAGE_ACCESS_TOKEN=your_page_access_token
-VERIFY_TOKEN=your_verify_token
-WB_PATH=your_webhook_path
+PAGE_ACCESS_TOKEN=your_page_access_token // EAAxxx....
+VERIFY_TOKEN=your_verify_token // ABCD
 APP_SECRET=your_app_secret
-PORT=your_port_number
-RENDER_EXTERNAL_URL=your_render_url
